@@ -8,4 +8,4 @@
 
 **Hardware Components**: Arduino Mega 2560, L298N Motor Driver, 2x DC Motors, HC-SR04 Ultrasonic Sensor, Generic IR Remote.
 
-**Functionality**: The car can move forwards, backwards, and turn left/right based on IR remote commands. It includes obstacle avoidance using the ultrasonic sensor.
+**Functionality**: The car can move forwards, backwards, and turn left/right based on IR remote commands, it also has three different speedlevels. It includes obstacle avoidance using the ultrasonic sensor.

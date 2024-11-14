@@ -1,6 +1,6 @@
-# FreeRTOS RC "Car"
+# FreeRTOS IRC "Car"
 
-**Project**: Arduino-based RC Car with IR Remote Control
+This project implements an IR controlled car using an Arduino and the FreeRTOS real-time operating system.  The car uses an ultrasonic sensor for distance measurement for basic obstacle avoidance and allows for speed control.
 
 <img src="/images/the%20abomination.jpg" alt="The Abomination" width="300" height="200"/>
 
